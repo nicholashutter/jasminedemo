@@ -1,0 +1,16 @@
+{
+  "name": "jasminedemo",
+  "version": "1.0.0",
+  "description": "demo for jasmine using node.js",
+  "main": "domath.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git-init": "^1.0.0",
+    "jasmine": "^3.10.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
